@@ -1,8 +1,16 @@
 # Google-Results-Enhancer
 ### A Chrome extension to increase your productivity
 
+1. [Why?](#why)
+2. [See it in action](#see-it-in-action)
+3. [Installation](#installation)
+4. [How?](#how)
+5. [Why not Publish on the Chrome Web Store?](#why-not-publish-on-the-chrome-web-store)
+6. [Future](#future)
+7. [Note on privacy](#note-on-privacy)
 
 This project is the result of a personal passion to increase productivity and re-imagine established practices.
+<br>
 
 
 ## Why?
@@ -19,6 +27,16 @@ This project is the result of a personal passion to increase productivity and re
 The following video shows the effect of the extension on the Google results for the query "koi":
 <br>
 [![Video Thumbnail](https://img.youtube.com/vi/taDSdhI258E/default.jpg)](https://www.youtube.com/watch?v=taDSdhI258E)
+<br>
+
+
+## Installation
+1. Git-clone this repository
+2. Unzip file
+3. Go to "chrome://extensions", enable "Developer Mode" (top-right)
+4. Relaunch your browser
+5. Choose "Load unpacked" (top-left) and select the extracted folder "Google-Results-Enhancer"
+6. Use Google and notice the changes
 <br>
 
 
