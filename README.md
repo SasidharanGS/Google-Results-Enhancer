@@ -36,7 +36,7 @@ The following video shows the effect of the extension on the Google results for 
 3. Go to "chrome://extensions", enable "Developer Mode" (top-right)
 4. Relaunch your browser
 5. Choose "Load unpacked" (top-left) and select the extracted folder "Google-Results-Enhancer"
-6. Use Google and notice the changes
+6. Use Google search and experience the changes
 <br>
 
 
