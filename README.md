@@ -2,7 +2,7 @@
 ### A Chrome extension to increase your productivity
 
 
-This project is the result of a personal passion to increse productivity and re-imagine established practices.
+This project is the result of a personal passion to increase productivity and re-imagine established practices.
 
 
 ## Why?
