@@ -1,0 +1,66 @@
+/*
+        res = results (that is split into 2 columns
+        rhs = the side-panel 
+*/
+
+#res, #rhs {
+    width: 90vw !important;
+}
+
+#res {
+    left: -120px !important;    /* the left column's offset to be MORE LEFT*/
+    column-count: 2;
+    column-gap: 90px;           /* the gap between the two columns */
+    column-rule: 1px solid lightgray !important;    /* the border between the two columns */
+    position:relative !important;   /* only "relative" renders the page correctly when used in combination with "left=-100"*/
+}
+
+#rhs {
+    width: 400px !important;    /* size of the side-panel */
+    padding-top: 5px !important;
+    padding-left: 10px !important;
+    background-color: rgb(12,12,12) !important;
+    overflow: hidden !important;
+    position: absolute !important;  /* "absolute" important for correct rendering position of side-panel*/
+    top: 337px !important;        /*offset from the top of the page*/
+    z-index: 100 !important;
+    right: -230px !important;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.5) !important;
+    transition: right 0.25s ease-out !important;
+}
+
+/* Animation */
+#rhs:hover {
+    right: 0px !important;
+}
+
+@keyframes exitEntryAnimation {
+    0% {
+        transform: translateX(20px) !important;
+    }
+    100% {
+        transform: translateX(0) !important;
+    }
+}
+
+/* Exit Animation */
+@keyframes exitAnimation {
+    0% {
+        opacity: 0 !important;
+    }
+    100% {
+        opacity: 1 !important;
+    }
+}
+
+/* Entry Animation */
+@keyframes entryAnimation {
+    10% {
+        right: 0px !important;
+    }
+}
+
+/* Additional Style */
+.mw {
+    max-width: 90vw !important;
+}
