@@ -16,7 +16,7 @@ This project is the result of a personal passion to increse productivity and re-
 
 
 ## See it in action
-This video shows the effect of the extension on the googlr results for the query "koi"
+The following video shows the effect of the extension on the Google results for the query "koi":
 <br>
 [![Video Thumbnail](https://img.youtube.com/vi/taDSdhI258E/default.jpg)](https://www.youtube.com/watch?v=taDSdhI258E)
 <br>
