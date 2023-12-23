@@ -28,7 +28,8 @@ A combination of CSS and Javascript is used to achieve the mentioned results.
 
 
 ## Why not Publish on the Chrome Web Store?
-Unfortunately, publishing to the Chrome Web Store isn't free; and eventhough the fee is Justifiable, it isn't Affordable.
+Unfortunately, publishing to the Chrome Web Store isn't free; and eventhough the fee is Justifiable, it isn't Affordable:
+<br>
 ![The Registration Fee](./chromeWebStoreFee.png)
 <br>
 
